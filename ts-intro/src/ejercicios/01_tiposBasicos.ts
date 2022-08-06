@@ -1,7 +1,4 @@
-/*
-    ===== Código de TypeScript =====
-*/
-
+// https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 let number: string = 'Vitto';
 let hp: number | string = 20;
